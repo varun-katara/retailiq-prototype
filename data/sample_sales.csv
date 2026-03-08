@@ -1,0 +1,7 @@
+product_id,product_name,quantity,price,date,region
+P001,Rice 1kg,50,45.50,2024-01-15,Maharashtra
+P002,Wheat Flour 1kg,30,40.00,2024-01-15,Maharashtra
+P003,Sugar 1kg,25,42.00,15/01/2024,Karnataka
+P004,Tea 250g,100,85.00,01/15/2024,Tamil Nadu
+P001,Rice 1kg,45,45.50,2024-01-16,Maharashtra
+P002,Wheat Flour 1kg,35,40.00,2024-01-16,Maharashtra

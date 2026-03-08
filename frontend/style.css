@@ -1,0 +1,70 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+.card-header {
+    font-weight: 600;
+}
+
+.chat-history {
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 15px;
+    background-color: #fff;
+}
+
+.chat-message {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.user-message {
+    background-color: #e3f2fd;
+    text-align: right;
+}
+
+.bot-message {
+    background-color: #f1f3f4;
+}
+
+.alert-custom {
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.risk-high {
+    background-color: #dc3545;
+    color: white;
+}
+
+.risk-medium {
+    background-color: #ffc107;
+    color: black;
+}
+
+.risk-low {
+    background-color: #28a745;
+    color: white;
+}
+
+table {
+    font-size: 0.9rem;
+}
+
+.forecast-warning {
+    background-color: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
