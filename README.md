@@ -44,7 +44,7 @@ python config/aws_setup.py
 
 ---
 
-### 4. Run API Server4. Run API Server
+### 4. Run API Server
 ```bash
 python -m api.main
 ```
